@@ -1,0 +1,13 @@
+*{
+    background-color: blanchedalmond;
+    margin: 10px;
+
+}
+img {
+    border-radius: 50%;
+  }
+#laugh {
+    align-content: center;
+    border: 5px solid #000;
+    border-radius: 24px;
+}
